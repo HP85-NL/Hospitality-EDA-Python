@@ -41,16 +41,16 @@ audit** to answer three questions:
 ## 📊 Key Insights at a Glance
 
 ### Weekday vs Weekend Occupancy Gap
-![Weekday vs Weekend](visuals/weekday_vs_weekend.png.jpg)
+![Weekday vs Weekend](visuals/weekday_vs_weekend.png)
 
 ### Revenue by City
 ![Revenue by City](visuals/revenue_by_city.png)
 
 ### Booking Platform Performance
-![Platform Performance](visuals/platform_performance.png)
+![Platform Performance](visuals/booking_performance.png)
 
 ### Customer Ratings by Property
-![Customer Ratings](visuals/customer_ratings.png)
+![Customer Ratings](visuals/occupancy_by_city.png)
 
 ---
 
@@ -119,14 +119,6 @@ Hospitality-EDA-Python/
 ├── hospitality_eda.ipynb    ← Full analysis notebook
 ├── requirements.txt         ← Python dependencies
 ├── README.md
-│
-├── datasets/
-│   ├── fact_bookings.csv
-│   ├── fact_aggregated_bookings.csv
-│   ├── dim_hotels.csv
-│   ├── dim_rooms.csv
-│   └── dim_date.csv
-│
 └── visuals/
     ├── occupancy_by_city.png
     ├── weekday_vs_weekend.png
