@@ -41,7 +41,7 @@ audit** to answer three questions:
 ## 📊 Key Insights at a Glance
 
 ### Weekday vs Weekend Occupancy Gap
-![Weekday vs Weekend](visuals/weekday_vs_weekend.png)
+![Weekday vs Weekend](visuals/weekday_vs_weekend.png.jpg)
 
 ### Revenue by City
 ![Revenue by City](visuals/revenue_by_city.png)
