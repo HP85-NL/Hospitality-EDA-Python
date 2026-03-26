@@ -1,5 +1,9 @@
 # 🏨 Hospitality Performance Analytics — Python EDA
 
+## 🚀 Live Dashboard
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-F4630A?style=for-the-badge)](https://hp85-nl.github.io/Hospitality-EDA-Python/hospitality_dashboard.html)
+
 > **Can data reveal why a 20-year hotel group is losing 
 > market share to competitors?**
 >
